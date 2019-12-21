@@ -28,3 +28,18 @@ h2 {
     padding: 0.3em;
 
 }
+
+#text-section {
+    width:70%;
+    height: 300px;
+    margin:0 auto;
+    margin-top: 10px;
+    background-color:#2E2F2E;
+    color:white;
+    font-size: 0.8em;
+    padding:5px;
+}
+
+p {
+    margin:0;
+}
