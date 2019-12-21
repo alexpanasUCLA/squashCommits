@@ -21,7 +21,7 @@ h2 {
 }
 
 #header-div {
-    /* width:70%; */
+   
     margin:0 auto;
     background-color:rgba(24, 24, 24, 0.808);
     color:white;
@@ -42,4 +42,8 @@ h2 {
 
 p {
     margin:0;
+}
+
+#main-topic {
+    color:red; 
 }
