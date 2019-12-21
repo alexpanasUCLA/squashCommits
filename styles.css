@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(140, 147, 140);
+    margin:0;
+}
+
+
+h1,h2 {
+    margin:0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.3em;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1em;
+    color:orange;
+}
+
+#header-div {
+    /* width:70%; */
+    margin:0 auto;
+    background-color:rgba(24, 24, 24, 0.808);
+    color:white;
+    padding: 0.3em;
+
+}
