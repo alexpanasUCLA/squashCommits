@@ -1,7 +1,4 @@
-const changingText = document.getElementById('main-topic');
-
-
-
+const changingText = document.getElementById('light');
 
 function changeColor(){
     const colors = ['green','red','blue','white'];
